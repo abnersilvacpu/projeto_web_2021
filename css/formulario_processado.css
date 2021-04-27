@@ -1,0 +1,49 @@
+table, td, th{
+    border: solid 1px #000;
+   
+    
+}
+table{
+    margin: auto;
+    
+}
+body{
+    height: 100%;
+    background-color: rgb(49, 49, 214);
+    width: 100%;
+}
+#div-topo{
+    margin: center;
+    text-align: center;
+    background-color: coral;
+    min-height: 100px;
+}
+#div-rodape{
+    background-color:coral;
+    height: 15%;
+    min-height: 100px;
+    font-size: 30px;
+    padding-left: 20px;
+    min-width: 100%;
+    margin-top: 15%;
+}
+#div-form{
+    margin-top: 5%;
+    background-color: rgb(107, 101, 102);
+    max-width: 50%;
+    margin-left: 25%;
+
+}
+
+#div-tabela{
+    margin-top: 5%;
+    background-color: rgb(247, 247, 247);
+    max-width: 50%;
+    margin-left: 25%;
+    min-height: 20%;
+    text-align: center;
+
+}
+button{
+    margin-top: 10%;
+}
